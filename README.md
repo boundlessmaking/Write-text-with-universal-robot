@@ -9,11 +9,11 @@ The machina Plugin can be exchanged for any Robot Plugin for Grasshopper. See [h
 ![GH-Definition](TextToRobot_CanvasCapture_01.png)
 
 ## Requirements
-[Rhinoceros3D **5 or 6** ](https://www.rhino3d.com/)
-Grasshopper (included in Rhino6)
+- [Rhinoceros3D **5 or 6** ](https://www.rhino3d.com/)  
+- Grasshopper (included in Rhino6)
 
-**GH-Plugins:** 
-[Machina (0.8.8+)](https://github.com/RobotExMachina/Machina-Grasshopper)
+**GH-Plugins:**   
+- [Machina (0.8.8+)](https://github.com/RobotExMachina/Machina-Grasshopper)
 
 ## How to use 
 - [download](https://github.com/robin-gdwl/Universal-Robot-Text-Writing/archive/master.zip) or [clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this repository 
