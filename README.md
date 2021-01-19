@@ -15,6 +15,14 @@ Grasshopper (included in Rhino6)
 **GH-Plugins:** 
 [Machina (0.8.8+)](https://github.com/RobotExMachina/Machina-Grasshopper)
 
+## How to use 
+- [download](https://github.com/robin-gdwl/Universal-Robot-Text-Writing/archive/master.zip) or [clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this repository 
+- unblock and then [unzip](https://wiki.mcneel.com/rhino/unblockplugin) the files
+- open the .gh file in Grasshopper 
+- add text in the panel on the left
+- set your bounding box and origin coordinates
+- save or run the robot-program
+
 ### created by Robin Godwyll
 Robot lab residency Summer 2019
 BURG Halle University of Art and Design Germany
